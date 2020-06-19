@@ -1,0 +1,123 @@
+# ! usr / bin / tamfan / perl
+# hayo mas mau ngapain? mau recode? emwng lammer kamu ya wkwkwk
+# ga seneng gas aja mas? wa: 0857-8041-1404
+# cape gua buatnya anjing ....
+gunakan Term :: ANSIColor;
+gunakan  jika $ ^ O eq  " MSWin32 " , Win32 :: Console :: ANSI;
+$ waktuakas = localtime ();
+
+sistem ( ' xdg-buka https://www.youtube.com/channel/UCJRsXsoiWHqBysdGXEjl8Hg ' );
+prakasajr ();
+pilihkas ();
+sub  prakasajr {
+     if ($ ^ O = ~ / MSWin32 / ) { system ( " mode con: cols = 100 lines = 29 " ); sistem ( " cls " ); } else { system ( " resize -s 28 87 " ); sistem ( " jelas " ); }
+     warna cetak ( ' tebal merah ' ), " ┏━━━━┓ ┏━━━━┓ ┏━━━━┓ ┳ ┳ ┏━━━━┓ ┏━━━━┓ ┏━━━━┓ ┏━ ━┳━┓ ┏━━━━┓ \ n " ;
+     warna cetak ( ' tebal merah ' ), " ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┻ ┃ ┃ ┃ ┃ ┃ ┻ ┻ ┃ ┃ \ n " ;
+     warna cetak ( ' tebal merah ' ), " ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┏┛ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ \ n " ;
+     warna cetak ( ' tebal merah ' ), " ┣━━━━┛ ┣━━┳━┛ ┣━━━━┫ ┣━━┫ ┣━━━━┫ ┗━━━━┓ ┣━━━━┫ ┃ ┣━━┳━┛ \ n " ;
+     warna cetak ( ' putih tebal ' ), " ┃ ┃ ┗┓ ┃ ┃ ┃ ┗┓ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗┓ \ n " ;
+     warna cetak ( ' putih tebal ' ), " ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┳ ┃ ┃ ┃ ┃ ┳ ┃ ┃ ┃ ┃ \ n " ;
+     warna cetak ( ' putih tebal ' ), " ┻ ┻ ┻ ┻ ┻ ┻ ┻ ┻ ┻ ┗━━━━┛ ┗━━━━┛ ┻ ┻ ┗━━┛ ┻ ┻ \ n " ;
+     warna cetak ( ' cetak tebal ' ), " ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━━━━┓ \ n " ;
+     warna cetak ( ' cetak tebal ' ), " ┃ " ;
+     warna cetak ( ' tebal hijau ' ), " • " ;
+     warna cetak ( ' cetak tebal ' ), " Penulis " ;
+     warna cetak ( ' tebal hijau ' ), " : " ;
+     warna cetak ( ' tebal putih ' ), " Mr.Rafly " ;
+     warna cetak ( ' tebal merah ' ), " - " ;
+     warna cetak ( ' tebal putih ' ), " Sulawesi-Selatan " ;
+     warna cetak ( ' tebal biru ' ), " Tim " ;
+     warna cetak ( ' tebal hijau ' ), " : " ;
+     warna cetak ( ' kuning tebal ' ), " Tim Cyber ​​Palopo " ;
+     warna cetak ( ' tebal hijau ' ), " • " ;
+     warna cetak ( ' cetak tebal ' ), " ┃ \ n " ;
+     warna cetak ( ' cetak tebal ' ), " ┃   " ;
+     warna cetak ( ' tebal hijau ' ), " • " ;
+     warna cetak ( ' tebal biru ' ), " Facebook " ;
+     warna cetak ( ' tebal hijau ' ), " : " ;
+     warna cetak ( ' putih tebal ' ), " Yutub Rafly pake i " ;
+     warna cetak ( ' tebal biru ' ), " APA KAREBA " ;
+     warna cetak ( ' tebal hijau ' ), " : " ;
+     warna cetak ( ' kuning tebal ' ), " Tim Cyber ​​Sulawesi-Selatan " ;
+     warna cetak ( ' tebal hijau ' ), " •   " ;
+     warna cetak ( ' cetak tebal ' ), " ┃ \ n " ;
+     warna cetak ( ' cetak tebal ' ), " ┃   " ;
+     warna cetak ( ' tebal hijau ' ), " • " ;
+     warna cetak ( ' tebal merah ' ), " YouTube " ;
+     warna cetak ( ' tebal hijau ' ), " : " ;
+     warna cetak ( ' tebal putih ' ), " Rafly pake i " ;
+     warna cetak ( ' tebal merah ' ), " - " ;
+     warna cetak ( ' tebal biru ' ), " Wa " ;
+     warna cetak ( ' tebal hijau ' ), " : " ;
+     warna cetak ( ' kuning tebal ' ), " 082290232340 " ;
+     warna cetak ( ' tebal hijau ' ), " •   " ;
+     warna cetak ( ' cetak tebal ' ), " ┃ \ n " ;
+     warna cetak ( ' cetak tebal ' ), " ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━━━━┛ \ n " ;
+     warna cetak ( ' tebal merah ' ), " ╾──────────────────────────────────── ──────────────────────╼ \ n " ;
+     warna cetak ( ' tebal putih ' ), " [ " ;
+     warna cetak ( ' tebal merah ' ), " • " ;
+     warna cetak ( ' tebal putih ' ), " ] " ;
+     warna cetak ( ' tebal kuning ' ), " Alat Ini Adalah Untuk MengEncrypt Agar File Tidak Di Recode \ n " ;
+     warna cetak ( ' tebal putih ' ), " [ " ;
+     warna cetak ( ' tebal merah ' ), " • " ;
+     warna cetak ( ' tebal putih ' ), " ] " ;
+     warna cetak ( ' bold cyan ' ), " Anda Membuka Alat Ini Pada Waktu " ;
+     warna cetak ( ' tebal hijau ' ), " : " ;
+     warna cetak ( ' tebal putih ' ), " $ waktuakas \ n \ n " ;
+}
+sub  pilihkas {
+     warna cetak ( ' tebal putih ' ), " [ " ;
+     warna cetak ( ' tebal hijau ' ), " 1 " ;
+     warna cetak ( ' tebal putih ' ), " ] " ;
+     warna cetak ( ' bold cyan ' ), " Instal Bahan-nya Dulu \ n " ;
+     warna cetak ( ' tebal putih ' ), " [ " ;
+     warna cetak ( ' tebal hijau ' ), " 2 " ;
+     warna cetak ( ' tebal putih ' ), " ] " ;
+     warna cetak ( ' cetak tebal ' ), " Enkripsi File \ n " ;
+     warna cetak ( ' tebal putih ' ), " [ " ;
+     warna cetak ( ' tebal hijau ' ), " 3 " ;
+     warna cetak ( ' tebal putih ' ), " ] " ;
+     warna cetak ( ' cetak tebal ' ), " Dekripsi File \ n " ;
+     warna cetak ( ' tebal putih ' ), " [ " ;
+     warna cetak ( ' tebal hijau ' ), " 4 " ;
+     warna cetak ( ' tebal putih ' ), " ] " ;
+     warna cetak ( ' cetak tebal ' ), " Kunjungi Blog \ n " ;
+     warna cetak ( ' tebal putih ' ), " [ " ;
+     warna cetak ( ' tebal hijau ' ), " 5 " ;
+     warna cetak ( ' tebal putih ' ), " ] " ;
+     warna cetak ( ' tebal merah ' ), " Keluar \ n \ n " ;
+     warna cetak ( ' tebal putih ' ), " [ " ;
+     warna cetak ( ' tebal kuning ' ), " MENU " ;
+     warna cetak ( ' tebal putih ' ), " ] " ;
+     warna cetak ( ' bold white ' ), " ditempatkan Nomernya " ;
+     warna cetak ( ' tebal hijau ' ), " : " ;
+     warna cetak ( ' cetak tebal ' ), " " ;
+
+    chomp ( $ akas = < STDIN >);
+
+     if ( $ akas  eq  ' 1 ' ) {
+     prakasajr ();
+     warna cetak ( ' tebal putih ' ), " [ " ;
+     warna cetak ( ' tebal kuning ' ), " PERINGATAN " ;
+     warna cetak ( ' tebal putih ' ), " ] " ;
+     warna cetak ( ' tebal kuning ' ), " Jika Ada Bacaan Sudo Atau Manual, Kalian Pilih Yang Manual. Saran Dari Mr.Rafly \ n " ;
+     warna cetak ( ' tebal putih ' ), " " ;
+     tidur (5);
+     sistem ( ' pkg install perl ' );
+     sistem ( ' pkg install make clang openssl ' );
+     sistem ( ' cpan install Net :: SSLeay :: Handle ' );      
+     sistem ( ' cpan install LWP :: UserAgent ' );
+     sistem ( ' cpan install Filter :: Crypto ' );
+    } if ( $ akas  eq  ' 2 ' ) {
+     prakasajr ();
+     sistem ( ' sh akas.sh ' );
+    } if ( $ akas  eq  ' 3 ' ) {
+     prakasajr ();
+     sistem ( ' sh deckas.sh ' );
+    } if ( $ akas  eq  ' 4 ' ) {
+     sistem ( ' xdg-open https://www.youtube.com/channel/UCJRsXsoiWHqBysdGXEjl8Hg ' );
+    }
+}
+
+
+
